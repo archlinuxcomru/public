@@ -1,0 +1,2 @@
+# /public
+archlinux.com.ru

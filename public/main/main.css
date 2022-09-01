@@ -1,0 +1,167 @@
+#content{
+  display: flex;  
+  padding:20px;
+  background:#fff;
+}
+
+#content li{
+  font-size: 16px;
+  padding-left: 1.3em;
+}
+
+#content li a{
+  color: #444;
+  display: inline-flex;
+}
+
+
+#content li a:hover{
+  color: #00466e;
+  text-decoration: underline;
+}
+
+#content ul {
+  display: block;
+  list-style: none;
+  vertical-align:middle; 
+}
+
+#content li:before {
+  content: "\f0c8"; 
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.8em; 
+  width: 1.8em; 
+  font-size: 8px;
+  color: #0088cc;
+  vertical-align:middle;
+}
+
+#content-line{
+  display: flex;  
+}
+
+#content-left-wrapper{
+  max-width:1400px;
+  flex-grow:1;
+  margin:0 auto;
+}
+
+#content-left{
+  padding: 20px 20px 0px 20px;
+}
+
+.main-box-right{
+  padding: 20px 40px;
+  margin-bottom: 40px;
+  border: 1px solid #cad7e1;
+  background: #ebf1f5; 
+}
+
+.main-box-right h3{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#into{
+  border: 1px solid #aee9f6;
+  background: #d9f8ff; 
+  font-size: 14px;
+  margin-bottom: 40px;
+  padding: 20px 40px;
+}
+
+#into p{
+  font-size: 14px;
+}
+
+#into .button{
+  width: 200px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.main-box-left{
+  background: #fcfcfc; 
+  width: 50%;
+  padding: 20px 40px;
+  border: 1px solid #f0f0f0;
+  margin-bottom: 40px;
+}
+
+.main-box-left h2{
+  margin-top: 0px;
+}
+
+.main-right{
+  margin-right: 40px;
+}
+
+
+#content-right{
+  padding: 20px;
+}
+
+#content-right-wrapper{
+  flex-shrink:0;
+  width: 500px;
+}
+
+#main-package small{
+  float: right;
+  font-size: 90%;
+  color: #666;
+}
+
+#main-package a{
+  max-width: 80%;
+}
+
+#page-footer{
+  background: #fff;
+}
+
+#content_error{
+  margin-top: 10%;
+  margin-left: 40%;
+}
+
+
+#update{
+  float: right;
+  font-size: 8px !important;
+  color: #ccc !important;
+}
+
+@media all and (max-width: 1200px) {
+  #into{
+    margin-bottom: 20px;
+  }
+  #content{
+    display: contents; 
+  }
+  #content-left-wrapper {
+    flex-flow:column;
+  }
+  #content-right-wrapper {
+    width:auto;
+  }
+  .main-box-left{
+    width: auto;
+    padding: 10px 20px;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+  .main-box-right{
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  #gnews-topic{
+    margin-bottom: 0px;
+  }
+  #content-line{
+    display: contents;  
+  } 
+}

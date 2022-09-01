@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>https://archlinux.com.ru/</loc>
+    <lastmod>2022-09-01T18:07:25+03:00</lastmod>
+    <priority>1.00</priority>
+</url>
+<url>
+    <loc>https://archlinux.com.ru/forum</loc>
+    <lastmod>2022-09-01T18:07:25+03:00</lastmod>
+    <priority>0.95</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=16</loc>
+      <lastmod>2022-08-28T18:12:18+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=44</loc>
+      <lastmod>2022-09-01T17:03:49+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=42</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=56</loc>
+      <lastmod>2022-09-01T17:07:25+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=50</loc>
+      <lastmod>2022-08-16T14:45:42+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=40</loc>
+      <lastmod>2022-08-25T11:42:54+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=35</loc>
+      <lastmod>2022-08-24T18:52:48+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=34</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=49</loc>
+      <lastmod>2022-09-01T09:36:07+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=29</loc>
+      <lastmod>2022-08-22T12:28:17+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=26</loc>
+      <lastmod>2022-08-22T10:07:56+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=43</loc>
+      <lastmod>2022-09-01T16:36:28+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=52</loc>
+      <lastmod>2022-08-23T17:15:07+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=23</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=15</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=55</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=17</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=22</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=28</loc>
+      <lastmod>2022-08-23T13:01:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=20</loc>
+      <lastmod>2022-08-11T13:21:34+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=14</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=25</loc>
+      <lastmod>2022-08-23T13:14:35+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=41</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=36</loc>
+      <lastmod>2022-08-18T13:03:53+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=21</loc>
+      <lastmod>2022-08-22T10:10:28+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=27</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=24</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=39</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=19</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=45</loc>
+      <lastmod>2022-08-23T22:16:40+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=18</loc>
+      <lastmod>2022-09-01T12:55:46+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewforum.php?f=46</loc>
+      <lastmod>1970-01-01T03:00:00+03:00</lastmod>
+      <priority>0.81</priority>
+</url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=124</loc>
+      <lastmod>2022-08-31T09:41:00+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=41</loc>
+      <lastmod>2022-08-22T12:28:17+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=40</loc>
+      <lastmod>2022-09-01T09:36:07+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=56</loc>
+      <lastmod>2022-08-21T00:50:19+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=50</loc>
+      <lastmod>2022-08-23T17:15:07+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=75</loc>
+      <lastmod>2022-08-22T10:07:56+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=85</loc>
+      <lastmod>2022-09-01T17:03:49+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=3</loc>
+      <lastmod>2022-08-23T13:14:35+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=32</loc>
+      <lastmod>2022-08-15T11:46:44+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=54</loc>
+      <lastmod>2022-08-20T11:53:44+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=52</loc>
+      <lastmod>2022-08-28T18:12:18+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=42</loc>
+      <lastmod>2022-08-18T13:03:53+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=99</loc>
+      <lastmod>2022-08-26T20:14:03+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=8</loc>
+      <lastmod>2022-08-11T13:21:34+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=82</loc>
+      <lastmod>2022-08-23T12:25:55+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=12</loc>
+      <lastmod>2022-08-27T11:30:27+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=121</loc>
+      <lastmod>2022-08-30T22:07:07+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=87</loc>
+      <lastmod>2022-08-25T11:42:54+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=114</loc>
+      <lastmod>2022-08-28T23:13:46+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=33</loc>
+      <lastmod>2022-08-15T10:05:01+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=98</loc>
+      <lastmod>2022-08-25T20:22:01+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=49</loc>
+      <lastmod>2022-08-19T20:44:23+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=53</loc>
+      <lastmod>2022-08-22T10:10:28+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=131</loc>
+      <lastmod>2022-09-01T17:07:25+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=83</loc>
+      <lastmod>2022-08-23T13:01:00+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=84</loc>
+      <lastmod>2022-08-23T22:16:40+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=51</loc>
+      <lastmod>2022-08-17T08:46:29+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=86</loc>
+      <lastmod>2022-08-24T18:52:48+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=105</loc>
+      <lastmod>2022-08-27T09:09:28+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=104</loc>
+      <lastmod>2022-08-26T23:09:25+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=45</loc>
+      <lastmod>2022-08-16T14:45:42+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=106</loc>
+      <lastmod>2022-08-27T11:09:29+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=103</loc>
+      <lastmod>2022-08-26T20:09:23+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=115</loc>
+      <lastmod>2022-08-29T17:13:53+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=100</loc>
+      <lastmod>2022-08-26T10:09:19+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=118</loc>
+      <lastmod>2022-08-30T09:07:02+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=125</loc>
+      <lastmod>2022-08-31T10:07:12+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=101</loc>
+      <lastmod>2022-08-26T10:09:19+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=117</loc>
+      <lastmod>2022-08-29T18:13:53+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=119</loc>
+      <lastmod>2022-08-30T11:07:03+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=107</loc>
+      <lastmod>2022-08-27T12:04:50+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=97</loc>
+      <lastmod>2022-08-25T20:22:01+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=110</loc>
+      <lastmod>2022-08-27T20:14:43+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=111</loc>
+      <lastmod>2022-08-27T22:13:36+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=109</loc>
+      <lastmod>2022-08-27T12:14:34+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=112</loc>
+      <lastmod>2022-08-28T12:13:41+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=116</loc>
+      <lastmod>2022-08-29T17:13:53+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=128</loc>
+      <lastmod>2022-09-01T09:07:22+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=120</loc>
+      <lastmod>2022-08-30T13:07:04+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=122</loc>
+      <lastmod>2022-08-31T09:07:12+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=129</loc>
+      <lastmod>2022-09-01T09:07:22+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=123</loc>
+      <lastmod>2022-08-31T09:07:12+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=127</loc>
+      <lastmod>2022-08-31T14:07:14+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=102</loc>
+      <lastmod>2022-08-27T18:46:59+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=130</loc>
+      <lastmod>2022-09-01T10:07:22+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=113</loc>
+      <lastmod>2022-09-01T12:55:46+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=2</loc>
+      <lastmod>2022-09-01T16:36:28+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=48</loc>
+      <lastmod>2022-09-01T10:30:18+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+<url>
+      <loc>https://archlinux.com.ru/forum/viewtopic.php?t=126</loc>
+      <lastmod>2022-08-31T12:17:04+03:00</lastmod>
+      <priority>0.67</priority>
+  </url>
+</urlset>

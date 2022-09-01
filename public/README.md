@@ -1,2 +1,2 @@
-# public
+# main page
 archlinux.com.ru

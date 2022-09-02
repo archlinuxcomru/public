@@ -23,6 +23,7 @@ function find_username(url) {
  * Hilight ON
  * hljs.initHighlightingOnLoad(); */
 hljs.highlightAll();
+
 /**
 * Window popup
 */
@@ -1779,3 +1780,17 @@ jQuery(function($) {
 		}
 	});
 });
+
+//Selected quote
+(function ($) {
+$('.postbody').on('click', '.floatquote', function (e) {
+  e.preventDefault();
+  var post = $(this).parents('.post');
+  var post_id = post.prop('id').replace(/[^0-9]/g, '');
+  var postdetails = post.find('.postdetails');
+  if ($('.floatquote').hasClass('qr')) {
+    var username = postdetails.attr('data-poster-name');
+    addquote(post_id, username);
+    }
+  });
+})(jQuery);

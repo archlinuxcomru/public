@@ -148,6 +148,10 @@
   #content-right-wrapper {
     width:auto;
   }
+  #content-right,
+  #content-left{
+    padding: 20px 0 0 0;
+  }
   .main-box-left{
     width: auto;
     padding: 10px 20px;

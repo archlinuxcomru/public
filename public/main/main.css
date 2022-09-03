@@ -27,7 +27,7 @@
 }
 
 #content li:before {
-  content: "\f0c8"; 
+  content: "\f04d"; 
   font-family: FontAwesome;
   display: inline-block;
   margin-left: -1.8em; 

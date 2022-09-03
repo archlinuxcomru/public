@@ -2019,6 +2019,10 @@ dd.posts, dd.topics, dd.views, dd.extra, dd.mark {
 dd.lastpost.empty br {
   display: none; }
 
+li.header dd.topics{
+  margin-left: 30px;
+}
+
 dd.posts, dd.topics, dd.views {
   width: 95px; }
   .elegant-row dd.posts, .elegant-row dd.topics, .elegant-row dd.views {

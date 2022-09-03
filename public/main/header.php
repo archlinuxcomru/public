@@ -9,8 +9,11 @@
 <link rel="canonical" href="https://archlinux.com.ru"/>
 <link rel="alternate" type="application/atom+xml" title="Канал - Arch Linux Русскоязычное сообщество" href="/forum/feed">     <link rel="alternate" type="application/atom+xml" title="Канал - Новые темы" href="/forum/feed/topics">
 <link href="./main/main.css" rel="stylesheet">
-<link href="./forum/assets/css/font-awesome.min.css?assets_version=86" rel="stylesheet">
-<link href="./forum/styles/basic/theme/stylesheet.css?assets_version=86" rel="stylesheet">
+<link href="./forum/assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="./forum/styles/basic/theme/stylesheet.css" rel="stylesheet">
+<!-- ADAPTIVE STYLE -->
+<link rel="stylesheet" href="./forum/styles/basic/theme/adaptive.css">
+<!-- END ADAPTIVE STYLE -->
 <!--[if lte IE 9]>
   <link href="./styles/basic/theme/tweaks.css?assets_version=86" rel="stylesheet">
 <![endif]-->
